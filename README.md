@@ -166,7 +166,7 @@ Each of the version 2 programs include an error as well.
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
 
-![Screenshot_2](MutlipleTerminals.png)
+![Screenshot_2](multi.png)
 ## Reference
 
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
