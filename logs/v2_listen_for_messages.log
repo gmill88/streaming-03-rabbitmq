@@ -1,0 +1,12 @@
+2024-05-15 13:20:38,149.v2_listen_for_messages.INFO ==================================================
+2024-05-15 13:20:38,149.v2_listen_for_messages.INFO Today is 2024-05-15 at 01:20 PM
+2024-05-15 13:20:38,150.v2_listen_for_messages.INFO Running on: posix Darwin 23.4.0
+2024-05-15 13:20:38,150.v2_listen_for_messages.INFO Python version:  3.11.5
+2024-05-15 13:20:38,150.v2_listen_for_messages.INFO Python path: /Users/grahammiller/anaconda3
+2024-05-15 13:20:38,150.v2_listen_for_messages.INFO Working dir: /Users/grahammiller/streaming-03-rabbitmq
+2024-05-15 13:20:38,150.v2_listen_for_messages.INFO ==================================================
+2024-05-15 13:20:38,186.v2_listen_for_messages.INFO  [*] Waiting for messages. To exit press CTRL+C
+2024-05-15 13:22:05,360.v2_listen_for_messages.INFO Received: Hello World!
+2024-05-15 13:23:51,704.v2_listen_for_messages.INFO Received: My name is Graham
+2024-05-15 13:28:57,272.v2_listen_for_messages.INFO Received: Today is May 15, 2024
+2024-05-15 13:32:18,693.v2_listen_for_messages.INFO Received: The Cardinals play the Angels tonight

@@ -1,0 +1,8 @@
+2024-05-15 13:32:18,656.v2_emit_message.INFO ==================================================
+2024-05-15 13:32:18,657.v2_emit_message.INFO Today is 2024-05-15 at 01:32 PM
+2024-05-15 13:32:18,657.v2_emit_message.INFO Running on: posix Darwin 23.4.0
+2024-05-15 13:32:18,657.v2_emit_message.INFO Python version:  3.12.2
+2024-05-15 13:32:18,657.v2_emit_message.INFO Python path: /Users/grahammiller/streaming-03-rabbitmq/.venv
+2024-05-15 13:32:18,657.v2_emit_message.INFO Working dir: /Users/grahammiller/streaming-03-rabbitmq
+2024-05-15 13:32:18,657.v2_emit_message.INFO ==================================================
+2024-05-15 13:32:18,692.v2_emit_message.INFO  [x] Sent The Cardinals play the Angels tonight
