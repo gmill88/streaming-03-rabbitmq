@@ -37,7 +37,7 @@ We will create a local Python virtual environment to isolate our project's third
 1. Use the built-in Python utility venv to create a new virtual environment named `.venv` in the current directory.
 
 ```shell
-python -m venv .venv
+python3 -m venv .venv
 ```
 
 Verify you get a new .venv directory in your project. 
@@ -47,7 +47,6 @@ We use .venv as the name to keep it away from our project files.
 
 In the same VS Code terminal window, activate the virtual environment.
 
-- On Windows, run: `.venv\Scripts\activate`
 - On Linux/MacOS, run: `source .venv/bin/activate`
 
 Verify you see the virtual environment name (.venv) in your terminal prompt.
@@ -63,7 +62,7 @@ Use the pip utility to install the libraries listed in requirements.txt into our
 
 Make sure you can see the .venv name in your terminal prompt before running this command.
 
-`python -m pip install -r requirements.txt`
+`python3 -m pip install -r requirements.txt`
 
 ## Task 4. Verify Setup (OPTIONAL - ONLY WORK ON SOME CONFIGURATIONS)
 
@@ -76,9 +75,9 @@ You can help by updating the code for other common configurations.
 Just fork the current repo, add your change, and create a pull request (no other changes please) and I'll pull it back in. 
 
 ```shell
-python util_about.py
-python util_aboutenv.py
-python util_aboutrabbit.py
+python3 util_about.py
+python3 util_aboutenv.py
+python3 util_aboutrabbit.py
 pip list
 ```
 
@@ -140,6 +139,8 @@ Now, to send a new message, you'll only make ONE change.
 Updating and improving code is called 'refactoring'. 
 Use your skills to keep coding enjoyable. 
 
+Verification Screenshot of V1 with multiple messages
+
 ![Screenshot](V1.png)
 
 ## Version 2
@@ -165,6 +166,8 @@ Each of the version 2 programs include an error as well.
 1. Search GitHub for if __name__ == "__main__":
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
+
+Verification Screenshot of V2 with multiple messages
 
 ![Screenshot_2](multi.png)
 ## Reference
