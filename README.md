@@ -1,5 +1,8 @@
 # streaming-03-rabbitmq
 
+### Name: Graham Miller
+### Link to Repo: https://github.com/gmill88/streaming-03-rabbitmq 
+
 > Get started with RabbitMQ, a message broker, that enables multiple processes to communicate reliably through an intermediary.
 
 This project requires some free code - beyond that available in the Python Standard Library. To avoid messing up our local default Python installation, and any other Python projects we may have, we  create a local virtual environment to install and use these libraries.
@@ -137,6 +140,8 @@ Now, to send a new message, you'll only make ONE change.
 Updating and improving code is called 'refactoring'. 
 Use your skills to keep coding enjoyable. 
 
+![Screenshot](V1.png)
+
 ## Version 2
 
 Now look at the second version of each file.
@@ -161,6 +166,7 @@ Each of the version 2 programs include an error as well.
 1. How many hits did you get? 
 1. Learn and understand this common Python idiom.
 
+![Screenshot_2](Mutliple_Terminals.png)
 ## Reference
 
 - [RabbitMQ Tutorial - Hello, World!](https://www.rabbitmq.com/tutorials/tutorial-one-python.html)
